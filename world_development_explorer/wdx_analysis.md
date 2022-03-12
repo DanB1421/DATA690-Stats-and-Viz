@@ -30,15 +30,24 @@ These can be answered by analyzing the ten countries with the highest renewable 
 
 ### **CO<sub>2</sub> emission time series**
 
+![](https://github.com/DanB1421/DanB1421/blob/b35032308bb6bc36ccfdee58304dd1b701aa055c/world_development_explorer/charts/CO2%20emissions%20time%20series.png)
+
 ### **Non-communicable disease mortality time series**
+![](https://github.com/DanB1421/DanB1421/blob/b35032308bb6bc36ccfdee58304dd1b701aa055c/world_development_explorer/charts/Noncommunicable%20disease%20time%20series.png)
 
 ### **Communicable disease mortality time series**
+![](https://github.com/DanB1421/DanB1421/blob/b35032308bb6bc36ccfdee58304dd1b701aa055c/world_development_explorer/charts/Communicable%20disease%20time%20series.png)
 
 ### **Life expectancy time series**
+![](https://github.com/DanB1421/DanB1421/blob/b35032308bb6bc36ccfdee58304dd1b701aa055c/world_development_explorer/charts/Life%20Expectancy%20time%20series.png)
 
 ### **Relationship between CO<sub>2</sub> emissions, life expectancy, and non-communicable disease mortality in 2000 and 2015 (x axis = non-communicable disease mortality, y axis = life expectancy, z axis = CO<sub>2</sub> emissions)**
+![](https://github.com/DanB1421/DanB1421/blob/b35032308bb6bc36ccfdee58304dd1b701aa055c/world_development_explorer/charts/2000%20noncommunicable%20disease.png)
+![](https://github.com/DanB1421/DanB1421/blob/b35032308bb6bc36ccfdee58304dd1b701aa055c/world_development_explorer/charts/2015%20noncommunicable%20disease.png)
 
 ### **Relationship between CO<sub>2</sub> emissions, life expectancy, and communicable disease mortality in 2000 and 2015 (x axis = communicable disease mortality, y axis = life expectancy, z axis = CO<sub>2</sub> emissions)**
+![](https://github.com/DanB1421/DanB1421/blob/b35032308bb6bc36ccfdee58304dd1b701aa055c/world_development_explorer/charts/2000%20communicable%20disease%20scatterplot.png)
+![](https://github.com/DanB1421/DanB1421/blob/b35032308bb6bc36ccfdee58304dd1b701aa055c/world_development_explorer/charts/2015%20communicable%20disease.png)
 
 - The general trends shown in the time series were that for the majority of these countries between 2000 and 2015, CO<sub>2</sub> emissions decreased or flatlined, life expectancy increased, communicable disease mortality decreased, and non-communicable disease mortality increased. 
 - Analysis of the three-dimensional scatterplots showed that North Korea, Denmark, and Uruguay had the most positive relationships between decreasing CO<sub>2</sub> emissions and life expectancy
@@ -47,6 +56,8 @@ These can be answered by analyzing the ten countries with the highest renewable 
 ## **3. Does an increase in renewable energy usage cause significant changes to mortality rates from disease and life expectancy?**
 
 ### **Renewable Energy Shares in Each Country in 2000 and 2015**
+![](https://github.com/DanB1421/DanB1421/blob/b35032308bb6bc36ccfdee58304dd1b701aa055c/world_development_explorer/charts/2000%20Renewable%20Energy.png)
+![](https://github.com/DanB1421/DanB1421/blob/b35032308bb6bc36ccfdee58304dd1b701aa055c/world_development_explorer/charts/2015%20Renewable%20Energy%20Consumption.png)
 
 ### **Correlation Heatmap between Renewable Energy Usage, Life Expectancy, and Non-Communicable Disease Mortality in 2015**
 
@@ -55,12 +66,17 @@ Indicator IDs:
 - SH.DTH.NCOM.ZS- Non-Communicable Disease Mortality
 - SP.DYN.LE00.IN- Life Expectancy
 
-### **Correlation Heatmap between Renewable Energy Usage, Life Expectancy, and Non-Communicable Disease Mortality in 2015**
+![](https://github.com/DanB1421/DanB1421/blob/b35032308bb6bc36ccfdee58304dd1b701aa055c/world_development_explorer/charts/2015%20Noncommunicable%20Disease%20Heatmap.png
+)
+
+### **Correlation Heatmap between Renewable Energy Usage, Life Expectancy, and Communicable Disease Mortality in 2015**
 
 Indicator IDs:
 - EG.FEC.RNEW.ZS- Renewable Energy Usage
-- SH.DTH.COMM.ZS- Non-Communicable Disease Mortality
+- SH.DTH.COMM.ZS- Communicable Disease Mortality
 - SP.DYN.LE00.IN- Life Expectancy
+
+![](https://github.com/DanB1421/DanB1421/blob/b35032308bb6bc36ccfdee58304dd1b701aa055c/world_development_explorer/charts/2015%20Communicable%20Disease%20Heatmap.png)
 
 - As shown in the bar graphs, the countries chosen each had significant increases in renewable energy usage between 2000 and 2015
 - The correlation heatmaps showed that there was a moderate to  strong negative correlation betwen noncommunicable disease mortality and renewable energy usage, and the opposite was true for communicable disease mortality rates.
