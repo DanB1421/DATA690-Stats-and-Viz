@@ -6,11 +6,11 @@
 
 **https://www.linkedin.com/in/danielbrilliant2/**
 
-## **Summary** 
+### **Summary** 
 ---
 Young professional with work experience in academic research, manufacturing, laboratory management, and retail. Seeking a career in data science with a focus on sports analytics.
 
-## **Educational Background**
+### **Educational Background**
 ---
 - **University of Maryland, Baltimore County** *(Catonsville, MD)*
 
@@ -20,7 +20,7 @@ Young professional with work experience in academic research, manufacturing, lab
 
   Received BS in Biochemistry in 2019
 
-## **Employment Experience**
+### **Employment Experience**
 ---
 - Student Employee at UMBC Bookstore, *(Catonsville, MD)*
 
@@ -62,7 +62,7 @@ Young professional with work experience in academic research, manufacturing, lab
   - Operated manufacturing machinery
   - Filled and packaged reagent kits
 
-## **Business  Skills**
+### **Business  Skills**
 ---
 - Honesty
 - Cooperability
@@ -72,7 +72,7 @@ Young professional with work experience in academic research, manufacturing, lab
 - Adaptability
 - Ability to Work Under Pressure
 
-## **Technical/Computer Skills**
+### **Technical/Computer Skills**
 ---
 - Python programming
 - Microsoft Office (Word/Excel/PowerPoint/Outlook/Teams)
@@ -83,16 +83,16 @@ Young professional with work experience in academic research, manufacturing, lab
 - Social Media (Facebook/Twitter/Instagram/SnapChat)
 - Biology/Chemistry Laboratory Techniques
 
-## **Awards**
+### **Awards**
 ---
 - Dean's List
 - Employee Safety Award at ThermoFisher Scientific
 
-## **Social Activities**
+### **Social Activities**
 ---
 - Adult advisor for BBYO (Teen youth organization)
 
-## **Hobbies**
+### **Hobbies**
 ---
 - Avid film watcher and amateur critic
 - Music (listening/playing)
