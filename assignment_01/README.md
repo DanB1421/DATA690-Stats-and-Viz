@@ -91,11 +91,12 @@ Young professional with work experience in academic research, manufacturing, lab
 
 ## **Social Activities**
 ---
-- Adult advisor for BBYO (Jewish teen youth organization)
+- Adult advisor for BBYO (Teen youth organization)
 
 ## **Hobbies**
 ---
 - Avid film watcher and amateur critic
+- Music (listening/playing)
 - Enthusiastic home cook
 - Devoted dog owner
 - Sports fanatic
