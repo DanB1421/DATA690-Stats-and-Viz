@@ -1,4 +1,3 @@
-![](E19892DA-E492-4447-8471-08D36FFEDCC5_1_105_c.jpeg)
 # **Daniel Brilliant**
 ---
 **dsbrilliant@verizon.net**
