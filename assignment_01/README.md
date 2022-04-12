@@ -75,10 +75,10 @@ Young professional with work experience in academic research, manufacturing, lab
 
 ## **Technical/Computer Skills**
 ---
+- Python programming
 - Microsoft Office (Word/Excel/PowerPoint/Outlook/Teams)
 - Google Drive (Docs/Sheets/Slides/Mail/Meet/Forms/Colab)
 - Analysis Software (Mathematica/MatLab)
-- Some Python/R programming experience
 - Audio Editing Software (Audacity)
 - Skype
 - Social Media (Facebook/Twitter/Instagram/SnapChat)
