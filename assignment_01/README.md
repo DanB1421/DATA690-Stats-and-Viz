@@ -27,7 +27,7 @@ Young professional with work experience in academic research, manufacturing, lab
 
   **January 2022-present**
   - Provides various services to customers
-  - Assists students in finding necessary textbooks
+  - Assists students in finding necessary items
   - Performs sales
 
 
