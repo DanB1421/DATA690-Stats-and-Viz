@@ -8,7 +8,7 @@
 
 ### **Summary** 
 ---
-Young professional with work experience in academic research, manufacturing, laboratory management, and retail. Seeking a career in data science with a focus on sports analytics.
+Young professional with work experience in academic research, manufacturing, laboratory management, and retail. Seeking a career in data science.
 
 ### **Educational Background**
 ---
