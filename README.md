@@ -22,9 +22,18 @@ Young professional with work experience in academic research, manufacturing, lab
 
 ### **Employment Experience**
 ---
+- General Clerk at Brillient Corporation
+  
+  **May 2023-present**
+  - Prepared USDA documents for digitization
+  - Maintained documentation of production
+  - Reassembled USDA documents after digitization
+  - Helped ensure documents were properly organized when returned to USDA sites
+
+
 - Student Employee at UMBC Bookstore, *(Catonsville, MD)*
 
-  **January 2022-present**
+  **January 2022-May 2023**
   - Provides various services to customers
   - Assists students in finding necessary items
   - Performs sales
